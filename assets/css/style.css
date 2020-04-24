@@ -1,25 +1,8 @@
 /*==============================================
 * Author        : Wouter Bosmans
 * Contact       : r0737827@student.thomasmore.be
+* Date          : Vrijdag 24 april 2020
 ================================================ */
-
-/*==================================
-font-family: 'Poppins', sans-serif;
-==================================== */
-
-
-/*=========== TABLE OF CONTENTS ===========
-1.  General css (Reset code)
-2.  Header
-3.  Welcome-hero
-4.  About me 
-5.  Education
-6.  Skill
-7.  Experience
-8.  Profiles
-9.  Portfolio
-10. Clients
-11. Contact
 
 /*-------------------------------------
 		1.General css (Reset code)
@@ -277,6 +260,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2A52BE;}
     box-shadow: 0 5px 20px rgba(14,25,80,.30);
     max-width: 864px;
 }
+
+/* uitgeschakeld
 .single-about-img:before {
     position:  absolute;
     content: " ";
@@ -286,6 +271,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2A52BE;}
     height:  100%;
     background: rgba(31,44,108,.3);
 }
+*/
+
 .single-about-img img {
     width: 100%;
 }
@@ -856,4 +843,3 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
-/*========================Thank you=================
